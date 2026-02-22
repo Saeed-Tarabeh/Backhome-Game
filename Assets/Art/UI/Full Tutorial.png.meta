@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: b5e10ec6d429fbe44bda8ca5a0431cba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2151496844639343260
+    second: Full Tutorial_0
+  - first:
+      213: -4370812269523505833
+    second: Full Tutorial_1
+  - first:
+      213: 8916865789137207002
+    second: Full Tutorial_2
+  - first:
+      213: 5348760267421120585
+    second: Full Tutorial_3
+  - first:
+      213: -785329526637326859
+    second: Full Tutorial_4
+  - first:
+      213: 8670575801052385826
+    second: Full Tutorial_5
+  - first:
+      213: 6540266837280360902
+    second: Full Tutorial_6
+  - first:
+      213: 6749936342846651979
+    second: Full Tutorial_7
+  - first:
+      213: 2429153188603382776
+    second: Full Tutorial_8
+  - first:
+      213: 8493341678340990253
+    second: Full Tutorial_9
+  - first:
+      213: -3479562646997901335
+    second: Full Tutorial_10
+  - first:
+      213: -9164913684504253981
+    second: Full Tutorial_11
+  - first:
+      213: 120055642446955211
+    second: Full Tutorial_12
+  - first:
+      213: 3576739933104987193
+    second: Full Tutorial_13
+  - first:
+      213: -4436405023218073656
+    second: Full Tutorial_14
+  - first:
+      213: 3106507038675350964
+    second: Full Tutorial_15
+  - first:
+      213: -854931284093669273
+    second: Full Tutorial_16
+  - first:
+      213: -8199529522898701937
+    second: Full Tutorial_17
+  - first:
+      213: -2730200340158003460
+    second: Full Tutorial_18
+  - first:
+      213: -1253895957961812814
+    second: Full Tutorial_19
+  - first:
+      213: 4599608379970941018
+    second: Full Tutorial_20
+  - first:
+      213: -1618421162558872988
+    second: Full Tutorial_21
+  - first:
+      213: 5508995181168421529
+    second: Full Tutorial_22
+  - first:
+      213: -899926080647020720
+    second: Full Tutorial_23
+  - first:
+      213: -2614428868714388875
+    second: Full Tutorial_24
+  - first:
+      213: 4105039075110200141
+    second: Full Tutorial_25
+  - first:
+      213: -7967210862097665162
+    second: Full Tutorial_26
+  - first:
+      213: 8189663966449308110
+    second: Full Tutorial_27
+  - first:
+      213: -3653542134328687641
+    second: Full Tutorial_28
+  - first:
+      213: -2240708142297593309
+    second: Full Tutorial_29
+  - first:
+      213: 7743358702560780679
+    second: Full Tutorial_30
+  - first:
+      213: -1427901155523278743
+    second: Full Tutorial_31
+  - first:
+      213: 2899379096367904752
+    second: Full Tutorial_32
+  - first:
+      213: -8370697510093190942
+    second: Full Tutorial_33
+  - first:
+      213: -8241691513175192868
+    second: Full Tutorial_34
+  - first:
+      213: -1690069769146341877
+    second: Full Tutorial_35
+  - first:
+      213: 6521084288732160237
+    second: Full Tutorial_36
+  - first:
+      213: 2098936559900611981
+    second: Full Tutorial_37
+  - first:
+      213: -8199073942782861377
+    second: Full Tutorial_38
+  - first:
+      213: -643628185573915911
+    second: Full Tutorial_39
+  - first:
+      213: -3336955343571136373
+    second: Full Tutorial_40
+  - first:
+      213: -871156896685473672
+    second: Full Tutorial_41
+  - first:
+      213: -396964369530668843
+    second: Full Tutorial_42
+  - first:
+      213: -9087740483192551107
+    second: Full Tutorial_43
+  - first:
+      213: -1841421392381398707
+    second: Full Tutorial_44
+  - first:
+      213: -820763142904313840
+    second: Full Tutorial_45
+  - first:
+      213: 5777613021769690053
+    second: Full Tutorial_46
+  - first:
+      213: 3189721957640306139
+    second: Full Tutorial_47
+  - first:
+      213: -5268603583280324782
+    second: Full Tutorial_48
+  - first:
+      213: 4950877763201179950
+    second: Full Tutorial_49
+  - first:
+      213: 2094555875709777682
+    second: Full Tutorial_50
+  - first:
+      213: -6133315048644423772
+    second: Full Tutorial_51
+  - first:
+      213: 7839200933626136940
+    second: Full Tutorial_52
+  - first:
+      213: 29022969806117445
+    second: Full Tutorial_53
+  - first:
+      213: -7350414856832331585
+    second: Full Tutorial_54
+  - first:
+      213: 6992846279486430493
+    second: Full Tutorial_55
+  - first:
+      213: -7751020661726038323
+    second: Full Tutorial_56
+  - first:
+      213: 5121723557737178879
+    second: Full Tutorial_57
+  - first:
+      213: -2258783791861139146
+    second: Full Tutorial_58
+  - first:
+      213: -3652150356041200661
+    second: Full Tutorial_59
+  - first:
+      213: -956394186037372052
+    second: Full Tutorial_60
+  - first:
+      213: -2769655184332008102
+    second: Full Tutorial_61
+  - first:
+      213: 860186028627929292
+    second: Full Tutorial_62
+  - first:
+      213: 2337892116240377497
+    second: Full Tutorial_63
+  - first:
+      213: -6456584110735644159
+    second: Full Tutorial_64
+  - first:
+      213: 8324770562067660422
+    second: Full Tutorial_65
+  - first:
+      213: -6918745991488416582
+    second: Full Tutorial_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 720
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Full Tutorial_0
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 114
+        width: 1094
+        height: 966
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9774d6731c3df8140b9db05c25b64c33
+      internalID: -2151496844639343260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Full Tutorial_0: -2151496844639343260
+      Full Tutorial_1: -4370812269523505833
+      Full Tutorial_10: -3479562646997901335
+      Full Tutorial_11: -9164913684504253981
+      Full Tutorial_12: 120055642446955211
+      Full Tutorial_13: 3576739933104987193
+      Full Tutorial_14: -4436405023218073656
+      Full Tutorial_15: 3106507038675350964
+      Full Tutorial_16: -854931284093669273
+      Full Tutorial_17: -8199529522898701937
+      Full Tutorial_18: -2730200340158003460
+      Full Tutorial_19: -1253895957961812814
+      Full Tutorial_2: 8916865789137207002
+      Full Tutorial_20: 4599608379970941018
+      Full Tutorial_21: -1618421162558872988
+      Full Tutorial_22: 5508995181168421529
+      Full Tutorial_23: -899926080647020720
+      Full Tutorial_24: -2614428868714388875
+      Full Tutorial_25: 4105039075110200141
+      Full Tutorial_26: -7967210862097665162
+      Full Tutorial_27: 8189663966449308110
+      Full Tutorial_28: -3653542134328687641
+      Full Tutorial_29: -2240708142297593309
+      Full Tutorial_3: 5348760267421120585
+      Full Tutorial_30: 7743358702560780679
+      Full Tutorial_31: -1427901155523278743
+      Full Tutorial_32: 2899379096367904752
+      Full Tutorial_33: -8370697510093190942
+      Full Tutorial_34: -8241691513175192868
+      Full Tutorial_35: -1690069769146341877
+      Full Tutorial_36: 6521084288732160237
+      Full Tutorial_37: 2098936559900611981
+      Full Tutorial_38: -8199073942782861377
+      Full Tutorial_39: -643628185573915911
+      Full Tutorial_4: -785329526637326859
+      Full Tutorial_40: -3336955343571136373
+      Full Tutorial_41: -871156896685473672
+      Full Tutorial_42: -396964369530668843
+      Full Tutorial_43: -9087740483192551107
+      Full Tutorial_44: -1841421392381398707
+      Full Tutorial_45: -820763142904313840
+      Full Tutorial_46: 5777613021769690053
+      Full Tutorial_47: 3189721957640306139
+      Full Tutorial_48: -5268603583280324782
+      Full Tutorial_49: 4950877763201179950
+      Full Tutorial_5: 8670575801052385826
+      Full Tutorial_50: 2094555875709777682
+      Full Tutorial_51: -6133315048644423772
+      Full Tutorial_52: 7839200933626136940
+      Full Tutorial_53: 29022969806117445
+      Full Tutorial_54: -7350414856832331585
+      Full Tutorial_55: 6992846279486430493
+      Full Tutorial_56: -7751020661726038323
+      Full Tutorial_57: 5121723557737178879
+      Full Tutorial_58: -2258783791861139146
+      Full Tutorial_59: -3652150356041200661
+      Full Tutorial_6: 6540266837280360902
+      Full Tutorial_60: -956394186037372052
+      Full Tutorial_61: -2769655184332008102
+      Full Tutorial_62: 860186028627929292
+      Full Tutorial_63: 2337892116240377497
+      Full Tutorial_64: -6456584110735644159
+      Full Tutorial_65: 8324770562067660422
+      Full Tutorial_66: -6918745991488416582
+      Full Tutorial_67: -1296289255
+      Full Tutorial_68: -1080383330
+      Full Tutorial_69: -2035289595
+      Full Tutorial_7: 6749936342846651979
+      Full Tutorial_8: 2429153188603382776
+      Full Tutorial_9: 8493341678340990253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

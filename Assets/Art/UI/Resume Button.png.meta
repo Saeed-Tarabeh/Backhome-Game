@@ -1,0 +1,1442 @@
+fileFormatVersion: 2
+guid: 21e0233be00db894e9750c89cf7b4eff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4291557665996174363
+    second: Resume Button_0
+  - first:
+      213: 8966035933672004273
+    second: Resume Button_1
+  - first:
+      213: -1759587538737846510
+    second: Resume Button_2
+  - first:
+      213: -1968373822544650884
+    second: Resume Button_3
+  - first:
+      213: -1205646164601427205
+    second: Resume Button_4
+  - first:
+      213: -2048087281229780992
+    second: Resume Button_5
+  - first:
+      213: 8237002027555354410
+    second: Resume Button_6
+  - first:
+      213: 3569835279109590172
+    second: Resume Button_7
+  - first:
+      213: 9114588383601329616
+    second: Resume Button_8
+  - first:
+      213: 5978537193007317313
+    second: Resume Button_9
+  - first:
+      213: 1101223933023717466
+    second: Resume Button_10
+  - first:
+      213: 6255792774205899841
+    second: Resume Button_11
+  - first:
+      213: 1031800931042098949
+    second: Resume Button_12
+  - first:
+      213: 459517650136024465
+    second: Resume Button_13
+  - first:
+      213: 7967033057472643192
+    second: Resume Button_14
+  - first:
+      213: -2184238069620042191
+    second: Resume Button_15
+  - first:
+      213: -1910075913055065820
+    second: Resume Button_16
+  - first:
+      213: -1681674556954407120
+    second: Resume Button_17
+  - first:
+      213: -34371903999944727
+    second: Resume Button_18
+  - first:
+      213: -4029617985327891669
+    second: Resume Button_19
+  - first:
+      213: -9118346060832423909
+    second: Resume Button_20
+  - first:
+      213: -2128236323173997077
+    second: Resume Button_21
+  - first:
+      213: -2724660991162387041
+    second: Resume Button_22
+  - first:
+      213: 1806866429798497525
+    second: Resume Button_23
+  - first:
+      213: -5842158244853139671
+    second: Resume Button_24
+  - first:
+      213: -6529449872155562254
+    second: Resume Button_25
+  - first:
+      213: -6400301528836396449
+    second: Resume Button_26
+  - first:
+      213: 6622442172745551130
+    second: Resume Button_27
+  - first:
+      213: -5345256726413391526
+    second: Resume Button_28
+  - first:
+      213: 1807230584781632167
+    second: Resume Button_29
+  - first:
+      213: 7133027722660609412
+    second: Resume Button_30
+  - first:
+      213: -7968147140375429048
+    second: Resume Button_31
+  - first:
+      213: 1382426356975151523
+    second: Resume Button_32
+  - first:
+      213: 3605871746579328960
+    second: Resume Button_33
+  - first:
+      213: 7978470981055310002
+    second: Resume Button_34
+  - first:
+      213: -5065396346294912977
+    second: Resume Button_35
+  - first:
+      213: -6174353807119939974
+    second: Resume Button_36
+  - first:
+      213: 8957522547304355347
+    second: Resume Button_37
+  - first:
+      213: 7091497400799179308
+    second: Resume Button_38
+  - first:
+      213: -1853367158247751491
+    second: Resume Button_39
+  - first:
+      213: -4690545967444533175
+    second: Resume Button_40
+  - first:
+      213: 4671167625455480466
+    second: Resume Button_41
+  - first:
+      213: -5272678726324066000
+    second: Resume Button_42
+  - first:
+      213: 4941175542740374415
+    second: Resume Button_43
+  - first:
+      213: 1703349925914294612
+    second: Resume Button_44
+  - first:
+      213: -610223861007256214
+    second: Resume Button_45
+  - first:
+      213: 2278869792856876816
+    second: Resume Button_46
+  - first:
+      213: 3525763448939834640
+    second: Resume Button_47
+  - first:
+      213: 5408808978970617826
+    second: Resume Button_48
+  - first:
+      213: 9024348033811076625
+    second: Resume Button_49
+  - first:
+      213: 9123196147475284868
+    second: Resume Button_50
+  - first:
+      213: -3968545290867605322
+    second: Resume Button_51
+  - first:
+      213: 687870032432077284
+    second: Resume Button_52
+  - first:
+      213: -7314953667515274073
+    second: Resume Button_53
+  - first:
+      213: 5885037391376790400
+    second: Resume Button_54
+  - first:
+      213: 4039013243371781882
+    second: Resume Button_55
+  - first:
+      213: 2704842545728985422
+    second: Resume Button_56
+  - first:
+      213: 7424503289388645154
+    second: Resume Button_57
+  - first:
+      213: 70301097181919817
+    second: Resume Button_58
+  - first:
+      213: 5242629110065025638
+    second: Resume Button_59
+  - first:
+      213: 3868174618995707771
+    second: Resume Button_60
+  - first:
+      213: -5714143126881190857
+    second: Resume Button_61
+  - first:
+      213: -7457959566174151579
+    second: Resume Button_62
+  - first:
+      213: 6456501990517528857
+    second: Resume Button_63
+  - first:
+      213: -7409583216297976887
+    second: Resume Button_64
+  - first:
+      213: -3289120539026314093
+    second: Resume Button_65
+  - first:
+      213: 9139931337062795023
+    second: Resume Button_66
+  - first:
+      213: -2864662299447849124
+    second: Resume Button_67
+  - first:
+      213: -3608493695325157642
+    second: Resume Button_68
+  - first:
+      213: 7042786629368763008
+    second: Resume Button_69
+  - first:
+      213: -6843542271610675075
+    second: Resume Button_70
+  - first:
+      213: 4991313099906148733
+    second: Resume Button_71
+  - first:
+      213: 8427994048601117436
+    second: Resume Button_72
+  - first:
+      213: 2795901204608450316
+    second: Resume Button_73
+  - first:
+      213: 1761568533073602912
+    second: Resume Button_74
+  - first:
+      213: -5752483427779534150
+    second: Resume Button_75
+  - first:
+      213: 6855247956230494092
+    second: Resume Button_76
+  - first:
+      213: -4287602941912068930
+    second: Resume Button_77
+  - first:
+      213: 7457373580492946071
+    second: Resume Button_78
+  - first:
+      213: 6295796305767137360
+    second: Resume Button_79
+  - first:
+      213: 6653130730486493440
+    second: Resume Button_80
+  - first:
+      213: 8501306616879834284
+    second: Resume Button_81
+  - first:
+      213: -3926111462217495671
+    second: Resume Button_82
+  - first:
+      213: -8375999462373849564
+    second: Resume Button_83
+  - first:
+      213: -3028731330679720323
+    second: Resume Button_84
+  - first:
+      213: -248930397550869908
+    second: Resume Button_85
+  - first:
+      213: -9187951414416211638
+    second: Resume Button_86
+  - first:
+      213: -7370908665724930633
+    second: Resume Button_87
+  - first:
+      213: 6181342423532377474
+    second: Resume Button_88
+  - first:
+      213: 4394886463619856046
+    second: Resume Button_89
+  - first:
+      213: -5151890788630475701
+    second: Resume Button_90
+  - first:
+      213: 185537559747759193
+    second: Resume Button_91
+  - first:
+      213: -6800287708744703945
+    second: Resume Button_92
+  - first:
+      213: 4570763699545833325
+    second: Resume Button_93
+  - first:
+      213: -4219396318262911873
+    second: Resume Button_94
+  - first:
+      213: 3395705581361791470
+    second: Resume Button_95
+  - first:
+      213: 4073662884789935509
+    second: Resume Button_96
+  - first:
+      213: 8513096114528140676
+    second: Resume Button_97
+  - first:
+      213: -2792058598494675669
+    second: Resume Button_98
+  - first:
+      213: -5218440842244463714
+    second: Resume Button_99
+  - first:
+      213: -365994735045550457
+    second: Resume Button_100
+  - first:
+      213: 7587265664620303988
+    second: Resume Button_101
+  - first:
+      213: 8859475602124480705
+    second: Resume Button_102
+  - first:
+      213: 7535414145880355016
+    second: Resume Button_103
+  - first:
+      213: -4011751585077524347
+    second: Resume Button_104
+  - first:
+      213: 8437528258025893407
+    second: Resume Button_105
+  - first:
+      213: 8401806743643161655
+    second: Resume Button_106
+  - first:
+      213: -2903110403531216663
+    second: Resume Button_107
+  - first:
+      213: -6612708172727450680
+    second: Resume Button_108
+  - first:
+      213: -883505398675247071
+    second: Resume Button_109
+  - first:
+      213: 7944856973318674858
+    second: Resume Button_110
+  - first:
+      213: 254653071129636147
+    second: Resume Button_111
+  - first:
+      213: 5793316130620635201
+    second: Resume Button_112
+  - first:
+      213: 6718079565593198318
+    second: Resume Button_113
+  - first:
+      213: -4565171657749506381
+    second: Resume Button_114
+  - first:
+      213: -4417014427446360525
+    second: Resume Button_115
+  - first:
+      213: -5616657655289218394
+    second: Resume Button_116
+  - first:
+      213: -1425145563659252810
+    second: Resume Button_117
+  - first:
+      213: 1806685520193235775
+    second: Resume Button_118
+  - first:
+      213: 1768099776464577866
+    second: Resume Button_119
+  - first:
+      213: 4057824812811508866
+    second: Resume Button_120
+  - first:
+      213: -3404391596432523065
+    second: Resume Button_121
+  - first:
+      213: -3829828516210133129
+    second: Resume Button_122
+  - first:
+      213: -8803610209282021209
+    second: Resume Button_123
+  - first:
+      213: -1576613547875962107
+    second: Resume Button_124
+  - first:
+      213: 3015775662297764793
+    second: Resume Button_125
+  - first:
+      213: 8258661289842795019
+    second: Resume Button_126
+  - first:
+      213: -603369486949140236
+    second: Resume Button_127
+  - first:
+      213: -6480136653040002463
+    second: Resume Button_128
+  - first:
+      213: 8007165870503867548
+    second: Resume Button_129
+  - first:
+      213: -5595204881863667172
+    second: Resume Button_130
+  - first:
+      213: -6447512422480475369
+    second: Resume Button_131
+  - first:
+      213: 8577514148855727246
+    second: Resume Button_132
+  - first:
+      213: 4797306731186919555
+    second: Resume Button_133
+  - first:
+      213: -8424610125988362489
+    second: Resume Button_134
+  - first:
+      213: -2917680515806342151
+    second: Resume Button_135
+  - first:
+      213: -2222023686830409743
+    second: Resume Button_136
+  - first:
+      213: 3961013771377762756
+    second: Resume Button_137
+  - first:
+      213: -1876957936434753748
+    second: Resume Button_138
+  - first:
+      213: 1232546674544062497
+    second: Resume Button_139
+  - first:
+      213: 8220746351219598230
+    second: Resume Button_140
+  - first:
+      213: 6590284563527128735
+    second: Resume Button_141
+  - first:
+      213: 5001853770644754255
+    second: Resume Button_142
+  - first:
+      213: 6164980959386051985
+    second: Resume Button_143
+  - first:
+      213: -7707503967062069205
+    second: Resume Button_144
+  - first:
+      213: 3917185903991764899
+    second: Resume Button_145
+  - first:
+      213: 1961160983229120981
+    second: Resume Button_146
+  - first:
+      213: -6740473019896034197
+    second: Resume Button_147
+  - first:
+      213: 4494868869979178226
+    second: Resume Button_148
+  - first:
+      213: 2187421523987092232
+    second: Resume Button_149
+  - first:
+      213: 5154823247228901553
+    second: Resume Button_150
+  - first:
+      213: 5122866656811476043
+    second: Resume Button_151
+  - first:
+      213: -2205095108217119518
+    second: Resume Button_152
+  - first:
+      213: 6332782097728940341
+    second: Resume Button_153
+  - first:
+      213: 8115621396493611136
+    second: Resume Button_154
+  - first:
+      213: -5127993064692500447
+    second: Resume Button_155
+  - first:
+      213: -8874935327641947694
+    second: Resume Button_156
+  - first:
+      213: 5769310374176486436
+    second: Resume Button_157
+  - first:
+      213: 6250669886608351191
+    second: Resume Button_158
+  - first:
+      213: -3591328665114528459
+    second: Resume Button_159
+  - first:
+      213: -8186423922347199120
+    second: Resume Button_160
+  - first:
+      213: -7449775314716384150
+    second: Resume Button_161
+  - first:
+      213: 5185008923445658241
+    second: Resume Button_162
+  - first:
+      213: -6715391906421112663
+    second: Resume Button_163
+  - first:
+      213: -3537073569510604820
+    second: Resume Button_164
+  - first:
+      213: 9127257668934996729
+    second: Resume Button_165
+  - first:
+      213: -2760813349465113329
+    second: Resume Button_166
+  - first:
+      213: 2087800313209592228
+    second: Resume Button_167
+  - first:
+      213: 2250207708126670509
+    second: Resume Button_168
+  - first:
+      213: 5578967629380972813
+    second: Resume Button_169
+  - first:
+      213: 845391214943393921
+    second: Resume Button_170
+  - first:
+      213: -1951421551263196391
+    second: Resume Button_171
+  - first:
+      213: 5206769002023459795
+    second: Resume Button_172
+  - first:
+      213: -6469898549187423883
+    second: Resume Button_173
+  - first:
+      213: -809684180791707288
+    second: Resume Button_174
+  - first:
+      213: 3686128386669213830
+    second: Resume Button_175
+  - first:
+      213: -7625957565098614569
+    second: Resume Button_176
+  - first:
+      213: 6065219691217250365
+    second: Resume Button_177
+  - first:
+      213: -8295634915622897088
+    second: Resume Button_178
+  - first:
+      213: 3809495783487514101
+    second: Resume Button_179
+  - first:
+      213: 7317867768247944516
+    second: Resume Button_180
+  - first:
+      213: -4829633090416010681
+    second: Resume Button_181
+  - first:
+      213: -3212189935321276162
+    second: Resume Button_182
+  - first:
+      213: -5272001839935110319
+    second: Resume Button_183
+  - first:
+      213: -5395705728446668871
+    second: Resume Button_184
+  - first:
+      213: -2443798950735789529
+    second: Resume Button_185
+  - first:
+      213: 5840322287960936945
+    second: Resume Button_186
+  - first:
+      213: 1760273220597866215
+    second: Resume Button_187
+  - first:
+      213: 3214240196662370775
+    second: Resume Button_188
+  - first:
+      213: 6921131978583375194
+    second: Resume Button_189
+  - first:
+      213: -8249286056434042885
+    second: Resume Button_190
+  - first:
+      213: 7208058503124944352
+    second: Resume Button_191
+  - first:
+      213: -6450174772834026491
+    second: Resume Button_192
+  - first:
+      213: 6659960223376618513
+    second: Resume Button_193
+  - first:
+      213: 671564659403878201
+    second: Resume Button_194
+  - first:
+      213: 2391333451769988030
+    second: Resume Button_195
+  - first:
+      213: -7682331416339154235
+    second: Resume Button_196
+  - first:
+      213: 2888640227321652500
+    second: Resume Button_197
+  - first:
+      213: 2410511412052168864
+    second: Resume Button_198
+  - first:
+      213: -5711821497234321175
+    second: Resume Button_199
+  - first:
+      213: 4209360322641705158
+    second: Resume Button_200
+  - first:
+      213: -2521176123651476329
+    second: Resume Button_201
+  - first:
+      213: -1962439170149153094
+    second: Resume Button_202
+  - first:
+      213: -1504863972948819024
+    second: Resume Button_203
+  - first:
+      213: 1478653880307467457
+    second: Resume Button_204
+  - first:
+      213: 7668860702105039961
+    second: Resume Button_205
+  - first:
+      213: 1686754154324104347
+    second: Resume Button_206
+  - first:
+      213: 2796238442435259200
+    second: Resume Button_207
+  - first:
+      213: 1154313083317317621
+    second: Resume Button_208
+  - first:
+      213: -1461787482806809715
+    second: Resume Button_209
+  - first:
+      213: 3993921138465663622
+    second: Resume Button_210
+  - first:
+      213: 8105018731840891996
+    second: Resume Button_211
+  - first:
+      213: 4989319045821197563
+    second: Resume Button_212
+  - first:
+      213: -8534491319849595411
+    second: Resume Button_213
+  - first:
+      213: 1111648359374025029
+    second: Resume Button_214
+  - first:
+      213: -80086982482854187
+    second: Resume Button_215
+  - first:
+      213: -5029416536432445481
+    second: Resume Button_216
+  - first:
+      213: -1977783242780602692
+    second: Resume Button_217
+  - first:
+      213: -2325449873824202843
+    second: Resume Button_218
+  - first:
+      213: -2249189415856902350
+    second: Resume Button_219
+  - first:
+      213: 4377404692566086947
+    second: Resume Button_220
+  - first:
+      213: 3752582185985086564
+    second: Resume Button_221
+  - first:
+      213: -4777600596974988892
+    second: Resume Button_222
+  - first:
+      213: -2965302449645902725
+    second: Resume Button_223
+  - first:
+      213: -2348299516431472596
+    second: Resume Button_224
+  - first:
+      213: -8094085707564503763
+    second: Resume Button_225
+  - first:
+      213: 2890493173431846662
+    second: Resume Button_226
+  - first:
+      213: 2728061114825700031
+    second: Resume Button_227
+  - first:
+      213: 4782762459918431191
+    second: Resume Button_228
+  - first:
+      213: 8165787196789996933
+    second: Resume Button_229
+  - first:
+      213: 8124410330020208721
+    second: Resume Button_230
+  - first:
+      213: 5102772068871647801
+    second: Resume Button_231
+  - first:
+      213: 6713423169688988169
+    second: Resume Button_232
+  - first:
+      213: -9047900349167096846
+    second: Resume Button_233
+  - first:
+      213: -4565953557582922338
+    second: Resume Button_234
+  - first:
+      213: 8466255708045409609
+    second: Resume Button_235
+  - first:
+      213: 578227044519904898
+    second: Resume Button_236
+  - first:
+      213: 530250830802407695
+    second: Resume Button_237
+  - first:
+      213: 8295835235089688145
+    second: Resume Button_238
+  - first:
+      213: -5986398950865527613
+    second: Resume Button_239
+  - first:
+      213: 850960730158693703
+    second: Resume Button_240
+  - first:
+      213: -4023884521191582067
+    second: Resume Button_241
+  - first:
+      213: -4235118236362046232
+    second: Resume Button_242
+  - first:
+      213: 4474758097122882704
+    second: Resume Button_243
+  - first:
+      213: -8942801072088939871
+    second: Resume Button_244
+  - first:
+      213: -3267463444389636069
+    second: Resume Button_245
+  - first:
+      213: -2546310139335356877
+    second: Resume Button_246
+  - first:
+      213: -7476401936311045694
+    second: Resume Button_247
+  - first:
+      213: -3358298539817012616
+    second: Resume Button_248
+  - first:
+      213: -2836251569584041910
+    second: Resume Button_249
+  - first:
+      213: 6016913367501748318
+    second: Resume Button_250
+  - first:
+      213: -1492319275180146122
+    second: Resume Button_251
+  - first:
+      213: 8237976178938719309
+    second: Resume Button_252
+  - first:
+      213: 3052850870671071484
+    second: Resume Button_253
+  - first:
+      213: -477258878824959039
+    second: Resume Button_254
+  - first:
+      213: -5839713260567521891
+    second: Resume Button_255
+  - first:
+      213: 9062865689755347259
+    second: Resume Button_256
+  - first:
+      213: 9142671895124530014
+    second: Resume Button_257
+  - first:
+      213: 4283067353832790548
+    second: Resume Button_258
+  - first:
+      213: 2967600756163615379
+    second: Resume Button_259
+  - first:
+      213: 6921154982521439226
+    second: Resume Button_260
+  - first:
+      213: -7115307921773650385
+    second: Resume Button_261
+  - first:
+      213: -5689434027447975539
+    second: Resume Button_262
+  - first:
+      213: 3135642385241715722
+    second: Resume Button_263
+  - first:
+      213: 5090948034045027840
+    second: Resume Button_264
+  - first:
+      213: 5067110655090989138
+    second: Resume Button_265
+  - first:
+      213: -8406174269214558144
+    second: Resume Button_266
+  - first:
+      213: 23797562303157845
+    second: Resume Button_267
+  - first:
+      213: -2320998039219224082
+    second: Resume Button_268
+  - first:
+      213: 7308597504095755312
+    second: Resume Button_269
+  - first:
+      213: -7075291681702546843
+    second: Resume Button_270
+  - first:
+      213: 349169798169371494
+    second: Resume Button_271
+  - first:
+      213: 7053543165104301615
+    second: Resume Button_272
+  - first:
+      213: -6414116516219681554
+    second: Resume Button_273
+  - first:
+      213: 7372285097079610027
+    second: Resume Button_274
+  - first:
+      213: -8232478165676810663
+    second: Resume Button_275
+  - first:
+      213: -2179841826955827136
+    second: Resume Button_276
+  - first:
+      213: -5681407340257700810
+    second: Resume Button_277
+  - first:
+      213: -3021095718277725158
+    second: Resume Button_278
+  - first:
+      213: 8468686020976655668
+    second: Resume Button_279
+  - first:
+      213: 777176889014157257
+    second: Resume Button_280
+  - first:
+      213: 2514202030563777565
+    second: Resume Button_281
+  - first:
+      213: 1087214642659150189
+    second: Resume Button_282
+  - first:
+      213: -10746117055582629
+    second: Resume Button_283
+  - first:
+      213: 7653578897397423838
+    second: Resume Button_284
+  - first:
+      213: -3925357995144112294
+    second: Resume Button_285
+  - first:
+      213: -232717306821001113
+    second: Resume Button_286
+  - first:
+      213: -6492057935848391736
+    second: Resume Button_287
+  - first:
+      213: -1768607544762519691
+    second: Resume Button_288
+  - first:
+      213: 5043275091189453798
+    second: Resume Button_289
+  - first:
+      213: -1712201849318322616
+    second: Resume Button_290
+  - first:
+      213: 1089140319344902053
+    second: Resume Button_291
+  - first:
+      213: 2148171379234007632
+    second: Resume Button_292
+  - first:
+      213: -7800465186720941610
+    second: Resume Button_293
+  - first:
+      213: 3480433707315697759
+    second: Resume Button_294
+  - first:
+      213: 6695181684535575610
+    second: Resume Button_295
+  - first:
+      213: 6499259382470624344
+    second: Resume Button_296
+  - first:
+      213: 2327404393394034812
+    second: Resume Button_297
+  - first:
+      213: -129497294354423242
+    second: Resume Button_298
+  - first:
+      213: 4084402111033866779
+    second: Resume Button_299
+  - first:
+      213: 8103116098294510825
+    second: Resume Button_300
+  - first:
+      213: 3767614426049296599
+    second: Resume Button_301
+  - first:
+      213: 401707804336984501
+    second: Resume Button_302
+  - first:
+      213: -4234178479485935027
+    second: Resume Button_303
+  - first:
+      213: 8953956701442045963
+    second: Resume Button_304
+  - first:
+      213: -4404182775770363349
+    second: Resume Button_305
+  - first:
+      213: -7083912682456231320
+    second: Resume Button_306
+  - first:
+      213: -5662161532212470402
+    second: Resume Button_307
+  - first:
+      213: 3540185041883149949
+    second: Resume Button_308
+  - first:
+      213: -8023511885511566521
+    second: Resume Button_309
+  - first:
+      213: 5342484678956867146
+    second: Resume Button_310
+  - first:
+      213: 4908618558543473969
+    second: Resume Button_311
+  - first:
+      213: -9169243641065119820
+    second: Resume Button_312
+  - first:
+      213: 8875301242186128601
+    second: Resume Button_313
+  - first:
+      213: 5571006615920508467
+    second: Resume Button_314
+  - first:
+      213: -3995894968908730526
+    second: Resume Button_315
+  - first:
+      213: 8506320611267029743
+    second: Resume Button_316
+  - first:
+      213: -996319823143997379
+    second: Resume Button_317
+  - first:
+      213: 1229932385011946175
+    second: Resume Button_318
+  - first:
+      213: 7367815095832710603
+    second: Resume Button_319
+  - first:
+      213: 2498967169932426219
+    second: Resume Button_320
+  - first:
+      213: -7918080480495094051
+    second: Resume Button_321
+  - first:
+      213: 7538205014019166068
+    second: Resume Button_322
+  - first:
+      213: -5619836380210308239
+    second: Resume Button_323
+  - first:
+      213: 5292771301946766279
+    second: Resume Button_324
+  - first:
+      213: -3824174856618477718
+    second: Resume Button_325
+  - first:
+      213: -2279229916531722854
+    second: Resume Button_326
+  - first:
+      213: 6564470230494532981
+    second: Resume Button_327
+  - first:
+      213: -7521082692218135713
+    second: Resume Button_328
+  - first:
+      213: 7132002519190099423
+    second: Resume Button_329
+  - first:
+      213: -2908695278460480934
+    second: Resume Button_330
+  - first:
+      213: -4856907210075274459
+    second: Resume Button_331
+  - first:
+      213: -5478961348063444144
+    second: Resume Button_332
+  - first:
+      213: 8924239703308178104
+    second: Resume Button_333
+  - first:
+      213: 4941418604315431631
+    second: Resume Button_334
+  - first:
+      213: -171664385607722273
+    second: Resume Button_335
+  - first:
+      213: 7666098826657996558
+    second: Resume Button_336
+  - first:
+      213: 2968738896469850054
+    second: Resume Button_337
+  - first:
+      213: -5791207727400314042
+    second: Resume Button_338
+  - first:
+      213: 3166966311673781429
+    second: Resume Button_339
+  - first:
+      213: -8662794976738586139
+    second: Resume Button_340
+  - first:
+      213: 656625437895464082
+    second: Resume Button_341
+  - first:
+      213: 3303513227238104394
+    second: Resume Button_342
+  - first:
+      213: 12732650176115602
+    second: Resume Button_343
+  - first:
+      213: 36384462843182578
+    second: Resume Button_344
+  - first:
+      213: -3860071577899122993
+    second: Resume Button_345
+  - first:
+      213: -1842325144637158321
+    second: Resume Button_346
+  - first:
+      213: -7703685112193200937
+    second: Resume Button_347
+  - first:
+      213: 733471461541168716
+    second: Resume Button_348
+  - first:
+      213: 1125979340618039990
+    second: Resume Button_349
+  - first:
+      213: 7312374399096870497
+    second: Resume Button_350
+  - first:
+      213: -3918945144846719276
+    second: Resume Button_351
+  - first:
+      213: 8237745395100946417
+    second: Resume Button_352
+  - first:
+      213: 6787169340511627355
+    second: Resume Button_353
+  - first:
+      213: -1277438450493172756
+    second: Resume Button_354
+  - first:
+      213: 1699750155941199596
+    second: Resume Button_355
+  - first:
+      213: 6118509608306390996
+    second: Resume Button_356
+  - first:
+      213: -3126383606429936103
+    second: Resume Button_357
+  - first:
+      213: 6113328665598933724
+    second: Resume Button_358
+  - first:
+      213: -145347063883460340
+    second: Resume Button_359
+  - first:
+      213: 5785766621299951445
+    second: Resume Button_360
+  - first:
+      213: -5797168823611754207
+    second: Resume Button_361
+  - first:
+      213: 2123364869100610930
+    second: Resume Button_362
+  - first:
+      213: -1929770620331109759
+    second: Resume Button_363
+  - first:
+      213: 7619178485073144652
+    second: Resume Button_364
+  - first:
+      213: -6457880643849584496
+    second: Resume Button_365
+  - first:
+      213: -810546462580204805
+    second: Resume Button_366
+  - first:
+      213: 8337794182534272216
+    second: Resume Button_367
+  - first:
+      213: -8299568010886380343
+    second: Resume Button_368
+  - first:
+      213: -7525404812875094028
+    second: Resume Button_369
+  - first:
+      213: 1425782793568117853
+    second: Resume Button_370
+  - first:
+      213: 8723791639213890361
+    second: Resume Button_371
+  - first:
+      213: -2426671450543733632
+    second: Resume Button_372
+  - first:
+      213: -6604629285772875493
+    second: Resume Button_373
+  - first:
+      213: -8893524905026734484
+    second: Resume Button_374
+  - first:
+      213: -6021943994585912228
+    second: Resume Button_375
+  - first:
+      213: -6984580987851191489
+    second: Resume Button_376
+  - first:
+      213: -4161449619889242272
+    second: Resume Button_377
+  - first:
+      213: 8290141789099011554
+    second: Resume Button_378
+  - first:
+      213: -4951226677290559967
+    second: Resume Button_379
+  - first:
+      213: 3512612979332560604
+    second: Resume Button_380
+  - first:
+      213: -1769347279457923324
+    second: Resume Button_381
+  - first:
+      213: -3424074860624303997
+    second: Resume Button_382
+  - first:
+      213: 1620945065186316562
+    second: Resume Button_383
+  - first:
+      213: 2168914639491962911
+    second: Resume Button_384
+  - first:
+      213: 2690074742332814976
+    second: Resume Button_385
+  - first:
+      213: -2723529781605972167
+    second: Resume Button_386
+  - first:
+      213: 179165123026347984
+    second: Resume Button_387
+  - first:
+      213: -2433537391931226031
+    second: Resume Button_388
+  - first:
+      213: -7784110584920798571
+    second: Resume Button_389
+  - first:
+      213: -9025065178248192401
+    second: Resume Button_390
+  - first:
+      213: 198108961219894588
+    second: Resume Button_391
+  - first:
+      213: 7935074111907241303
+    second: Resume Button_392
+  - first:
+      213: 773782233568651001
+    second: Resume Button_393
+  - first:
+      213: 5474829295228871331
+    second: Resume Button_394
+  - first:
+      213: -685546251433039805
+    second: Resume Button_395
+  - first:
+      213: -7004601152528198576
+    second: Resume Button_396
+  - first:
+      213: 2388569434691991723
+    second: Resume Button_397
+  - first:
+      213: -3477011525369119455
+    second: Resume Button_398
+  - first:
+      213: -5779558369725535305
+    second: Resume Button_399
+  - first:
+      213: -6443671738873351211
+    second: Resume Button_400
+  - first:
+      213: 587634720486226693
+    second: Resume Button_401
+  - first:
+      213: -8009598173930403486
+    second: Resume Button_402
+  - first:
+      213: -2585422113195912257
+    second: Resume Button_403
+  - first:
+      213: -1442475169243556092
+    second: Resume Button_404
+  - first:
+      213: -6357635788417374635
+    second: Resume Button_405
+  - first:
+      213: 2030420804779593750
+    second: Resume Button_406
+  - first:
+      213: 2296188476400214722
+    second: Resume Button_407
+  - first:
+      213: -5228799193704770333
+    second: Resume Button_408
+  - first:
+      213: 1629821328728192026
+    second: Resume Button_409
+  - first:
+      213: -2658644761824532771
+    second: Resume Button_410
+  - first:
+      213: 4588519750684495553
+    second: Resume Button_411
+  - first:
+      213: 5834086817219839772
+    second: Resume Button_412
+  - first:
+      213: -4226014813446012984
+    second: Resume Button_413
+  - first:
+      213: 3817038013437626449
+    second: Resume Button_414
+  - first:
+      213: -6802546954922785516
+    second: Resume Button_415
+  - first:
+      213: 6325977847567946840
+    second: Resume Button_416
+  - first:
+      213: 5052972263447209252
+    second: Resume Button_417
+  - first:
+      213: 5620001005299896463
+    second: Resume Button_418
+  - first:
+      213: -672749204667227504
+    second: Resume Button_419
+  - first:
+      213: 4089330674250573478
+    second: Resume Button_420
+  - first:
+      213: -7022998344264387623
+    second: Resume Button_421
+  - first:
+      213: 7396202276453932667
+    second: Resume Button_422
+  - first:
+      213: -6065008780243766735
+    second: Resume Button_423
+  - first:
+      213: -7361024827476393471
+    second: Resume Button_424
+  - first:
+      213: 4948649012750189708
+    second: Resume Button_425
+  - first:
+      213: -185947738803429624
+    second: Resume Button_426
+  - first:
+      213: -4741117765499260123
+    second: Resume Button_427
+  - first:
+      213: -9172740019865712656
+    second: Resume Button_428
+  - first:
+      213: -369415546851738437
+    second: Resume Button_429
+  - first:
+      213: 905947322474016103
+    second: Resume Button_430
+  - first:
+      213: 5802367066279414245
+    second: Resume Button_431
+  - first:
+      213: 6640330175844389626
+    second: Resume Button_432
+  - first:
+      213: 3663788812630140610
+    second: Resume Button_433
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Resume Button_0
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 465
+        width: 865
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b147ec6a5fcae8b30800000000000000
+      internalID: 4291557665996174363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c34f5c774e5f4ef4aa529640cc0b9cf7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Resume Button_0: 4291557665996174363
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

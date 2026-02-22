@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 23801d2131c7f1c45b41ebc0d7975f92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4775215619715687746
+    second: Exit Light_0
+  - first:
+      213: -5491899747392747252
+    second: Exit Light_1
+  - first:
+      213: -6915792416781342408
+    second: Exit Light_2
+  - first:
+      213: -3063371768573624503
+    second: Exit Light_3
+  - first:
+      213: 4190437762561629614
+    second: Exit Light_4
+  - first:
+      213: 9134053193625249477
+    second: Exit Light_5
+  - first:
+      213: 4601983217486048309
+    second: Exit Light_6
+  - first:
+      213: 3979450956944871189
+    second: Exit Light_7
+  - first:
+      213: 2697678764036267775
+    second: Exit Light_8
+  - first:
+      213: -4813011221952369126
+    second: Exit Light_9
+  - first:
+      213: 2318803243979926394
+    second: Exit Light_10
+  - first:
+      213: -4196250842585756920
+    second: Exit Light_11
+  - first:
+      213: 399265460454542462
+    second: Exit Light_12
+  - first:
+      213: 8842640074142841749
+    second: Exit Light_13
+  - first:
+      213: -3790074186169578696
+    second: Exit Light_14
+  - first:
+      213: 8194119339506365052
+    second: Exit Light_15
+  - first:
+      213: 3511234847789568865
+    second: Exit Light_16
+  - first:
+      213: -4506684480966032159
+    second: Exit Light_17
+  - first:
+      213: -1700250818674514567
+    second: Exit Light_18
+  - first:
+      213: 8673131931337620996
+    second: Exit Light_19
+  - first:
+      213: -5952290133192573007
+    second: Exit Light_20
+  - first:
+      213: 738648978582146201
+    second: Exit Light_21
+  - first:
+      213: -3098253773270217062
+    second: Exit Light_22
+  - first:
+      213: -9031747085921770686
+    second: Exit Light_23
+  - first:
+      213: -6101096768946353996
+    second: Exit Light_24
+  - first:
+      213: 3789605064970943056
+    second: Exit Light_25
+  - first:
+      213: -7733424893954240218
+    second: Exit Light_26
+  - first:
+      213: 2724302169331979643
+    second: Exit Light_27
+  - first:
+      213: 4403010270183909212
+    second: Exit Light_28
+  - first:
+      213: 2168674505454419036
+    second: Exit Light_29
+  - first:
+      213: -1858410395504853743
+    second: Exit Light_30
+  - first:
+      213: -751158845750701437
+    second: Exit Light_31
+  - first:
+      213: -233004382300160568
+    second: Exit Light_32
+  - first:
+      213: 1617532233816589106
+    second: Exit Light_33
+  - first:
+      213: -7433446318531524898
+    second: Exit Light_34
+  - first:
+      213: 5868952417702452058
+    second: Exit Light_35
+  - first:
+      213: 9147936526335100663
+    second: Exit Light_36
+  - first:
+      213: 4204675493338312637
+    second: Exit Light_37
+  - first:
+      213: 4615693745177140357
+    second: Exit Light_38
+  - first:
+      213: -5932831815386523240
+    second: Exit Light_39
+  - first:
+      213: 2325193107946985353
+    second: Exit Light_40
+  - first:
+      213: 6372664896870461487
+    second: Exit Light_41
+  - first:
+      213: 1480267457868643373
+    second: Exit Light_42
+  - first:
+      213: 6089645104704183039
+    second: Exit Light_43
+  - first:
+      213: -2342351268355833876
+    second: Exit Light_44
+  - first:
+      213: 3783802402314278371
+    second: Exit Light_45
+  - first:
+      213: -5263136675523269023
+    second: Exit Light_46
+  - first:
+      213: 8368026312765667428
+    second: Exit Light_47
+  - first:
+      213: 616474094417782914
+    second: Exit Light_48
+  - first:
+      213: 8401383061509494962
+    second: Exit Light_49
+  - first:
+      213: 7718288163506566427
+    second: Exit Light_50
+  - first:
+      213: -1511809868844743934
+    second: Exit Light_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Exit Light_0
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 335
+        width: 597
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245ec035e49f44240800000000000000
+      internalID: 4775215619715687746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_1
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 528
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09099ee64ad8c3b0800000000000000
+      internalID: -5491899747392747252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_2
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 523
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8396869307b2600a0800000000000000
+      internalID: -6915792416781342408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_3
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 533
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f753f5b97bc75d0800000000000000
+      internalID: -3063371768573624503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_4
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 524
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead5ed271fc672a30800000000000000
+      internalID: 4190437762561629614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_5
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 527
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c62e8d3cfca2ce70800000000000000
+      internalID: 9134053193625249477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_6
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 524
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ca09c9a578ddf30800000000000000
+      internalID: 4601983217486048309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_7
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 523
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f89c1bf89d93730800000000000000
+      internalID: 3979450956944871189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_8
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 335
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe1f700b84107520800000000000000
+      internalID: 2697678764036267775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_9
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 342
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e6f874bcfb43db0800000000000000
+      internalID: -4813011221952369126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_10
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 348
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b627dc34b0e2020800000000000000
+      internalID: 2318803243979926394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_11
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 338
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b0e33671ce3c5c0800000000000000
+      internalID: -4196250842585756920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_12
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 335
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cc97522d97a8500800000000000000
+      internalID: 399265460454542462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 339
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bfaef0c4e57ba70800000000000000
+      internalID: 8842640074142841749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_14
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 345
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b0cfcbb93f66bc0800000000000000
+      internalID: -3790074186169578696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_15
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 345
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c727f6eff1c57b170800000000000000
+      internalID: 8194119339506365052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_16
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 335
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1635871ad796ab030800000000000000
+      internalID: 3511234847789568865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_17
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 348
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4014d875a0571c0800000000000000
+      internalID: -4506684480966032159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_18
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 340
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975a6d383ee7768e0800000000000000
+      internalID: -1700250818674514567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_19
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 335
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ef9711a872d5870800000000000000
+      internalID: 8673131931337620996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_20
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 338
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf7ef219a7356da0800000000000000
+      internalID: -5952290133192573007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_21
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 335
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c081e1555304a00800000000000000
+      internalID: 738648978582146201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_22
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 345
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e0734cb9ac005d0800000000000000
+      internalID: -3098253773270217062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_23
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 342
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243a67aa0e9c8a280800000000000000
+      internalID: -9031747085921770686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_24
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 335
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b84baa40dc845ba0800000000000000
+      internalID: -6101096768946353996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_25
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 342
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a3d987ab1679430800000000000000
+      internalID: 3789605064970943056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_26
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 335
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621d1ba480b5da490800000000000000
+      internalID: -7733424893954240218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_27
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 337
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75dbd7936aaec520800000000000000
+      internalID: 2724302169331979643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_28
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 349
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5765b83382aa1d30800000000000000
+      internalID: 4403010270183909212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_29
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 335
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c7e0bf8fda81e10800000000000000
+      internalID: 2168674505454419036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_30
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 348
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d3a0177999536e0800000000000000
+      internalID: -1858410395504853743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_31
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 342
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382132572095395f0800000000000000
+      internalID: -751158845750701437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_32
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 335
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdb3e1bfb334ccf0800000000000000
+      internalID: -233004382300160568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_33
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 342
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233c1612ff0a27610800000000000000
+      internalID: 1617532233816589106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_34
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 348
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed64ef615f717d890800000000000000
+      internalID: -7433446318531524898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_35
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 343
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b13dcf025b27150800000000000000
+      internalID: 5868952417702452058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_36
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 335
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f646088dcff3fe70800000000000000
+      internalID: 9147936526335100663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_37
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 343
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf683875120a5a30800000000000000
+      internalID: 4204675493338312637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_38
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 338
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c9649910d3e0040800000000000000
+      internalID: 4615693745177140357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_39
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 335
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89910cbb5e85aada0800000000000000
+      internalID: -5932831815386523240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_40
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 335
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987dd51ffceb44020800000000000000
+      internalID: 2325193107946985353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_41
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 336
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20b09ab5f0407850800000000000000
+      internalID: 6372664896870461487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_42
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 335
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cb4def867fa8410800000000000000
+      internalID: 1480267457868643373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_43
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 339
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffad61a55f3c28450800000000000000
+      internalID: 6089645104704183039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_44
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 335
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceff6768eeb4e7fd0800000000000000
+      internalID: -2342351268355833876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_45
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 335
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5563acc34c28430800000000000000
+      internalID: 3783802402314278371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_46
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 339
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16eea13341595f6b0800000000000000
+      internalID: -5263136675523269023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_47
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 335
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468f4838893312470800000000000000
+      internalID: 8368026312765667428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_48
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 335
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288a0033ce72e8800800000000000000
+      internalID: 616474094417782914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_49
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 342
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8d14bc165b79470800000000000000
+      internalID: 8401383061509494962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_50
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 335
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1539e3013edc1b60800000000000000
+      internalID: 7718288163506566427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Light_51
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 335
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20344972fe8f40be0800000000000000
+      internalID: -1511809868844743934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Exit Light_0: 4775215619715687746
+      Exit Light_1: -5491899747392747252
+      Exit Light_10: 2318803243979926394
+      Exit Light_11: -4196250842585756920
+      Exit Light_12: 399265460454542462
+      Exit Light_13: 8842640074142841749
+      Exit Light_14: -3790074186169578696
+      Exit Light_15: 8194119339506365052
+      Exit Light_16: 3511234847789568865
+      Exit Light_17: -4506684480966032159
+      Exit Light_18: -1700250818674514567
+      Exit Light_19: 8673131931337620996
+      Exit Light_2: -6915792416781342408
+      Exit Light_20: -5952290133192573007
+      Exit Light_21: 738648978582146201
+      Exit Light_22: -3098253773270217062
+      Exit Light_23: -9031747085921770686
+      Exit Light_24: -6101096768946353996
+      Exit Light_25: 3789605064970943056
+      Exit Light_26: -7733424893954240218
+      Exit Light_27: 2724302169331979643
+      Exit Light_28: 4403010270183909212
+      Exit Light_29: 2168674505454419036
+      Exit Light_3: -3063371768573624503
+      Exit Light_30: -1858410395504853743
+      Exit Light_31: -751158845750701437
+      Exit Light_32: -233004382300160568
+      Exit Light_33: 1617532233816589106
+      Exit Light_34: -7433446318531524898
+      Exit Light_35: 5868952417702452058
+      Exit Light_36: 9147936526335100663
+      Exit Light_37: 4204675493338312637
+      Exit Light_38: 4615693745177140357
+      Exit Light_39: -5932831815386523240
+      Exit Light_4: 4190437762561629614
+      Exit Light_40: 2325193107946985353
+      Exit Light_41: 6372664896870461487
+      Exit Light_42: 1480267457868643373
+      Exit Light_43: 6089645104704183039
+      Exit Light_44: -2342351268355833876
+      Exit Light_45: 3783802402314278371
+      Exit Light_46: -5263136675523269023
+      Exit Light_47: 8368026312765667428
+      Exit Light_48: 616474094417782914
+      Exit Light_49: 8401383061509494962
+      Exit Light_5: 9134053193625249477
+      Exit Light_50: 7718288163506566427
+      Exit Light_51: -1511809868844743934
+      Exit Light_6: 4601983217486048309
+      Exit Light_7: 3979450956944871189
+      Exit Light_8: 2697678764036267775
+      Exit Light_9: -4813011221952369126
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
