@@ -18,7 +18,6 @@ public class LivesUI : MonoBehaviour
 
     private void Update()
     {
-        // Cheap + simple: just refresh each frame (3 images only)
         Refresh();
     }
 
@@ -38,12 +37,16 @@ public class LivesUI : MonoBehaviour
             {
                 hearts[i].enabled = filled;
             }
-            else
+            else if(lives > 0)
             {
                 hearts[i].enabled = true;
                 Color c = hearts[i].color;
                 c.a = filled ? 1f : emptyAlpha;
                 hearts[i].color = c;
+            }
+            else if (lives == 0)
+            {
+                hearts[i].enabled = false;
             }
         }
     }

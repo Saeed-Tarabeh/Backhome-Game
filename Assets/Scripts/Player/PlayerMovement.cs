@@ -14,8 +14,8 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float coyoteTime = 0.12f;
     [SerializeField] private float jumpBuffer = 0.12f;
 
-    [Header("Double Jump")]
-    [SerializeField] private int maxJumps = 2; // 2 = double jump (1 ground + 1 air)
+    [Header("Amount of Jumps")]
+    [SerializeField] private int maxJumps = 2;
 
     [Header("Ground Check")]
     [SerializeField] private Transform groundCheck;
@@ -50,6 +50,7 @@ public class PlayerMovement : MonoBehaviour
         if (groundLayer.value == 0)
             groundLayer = LayerMask.GetMask("Ground");
 
+        // Create ground check
         if (groundCheck == null)
         {
             var gc = new GameObject("GroundCheck");
@@ -68,16 +69,11 @@ public class PlayerMovement : MonoBehaviour
         float feetY = col.bounds.min.y - 0.02f;
         groundCheck.position = new Vector3(transform.position.x, feetY, transform.position.z);
 
-        // Grounded check
         isGrounded = CheckGrounded();
 
-        // if (rb.linearVelocity.y > 0.01f)
-        //     isGrounded = false;
-
-        // When we (re)touch ground, reset jumps
+        // Reset jumps when landed
         if (isGrounded && !wasGrounded)
         {
-
             if(rb.linearVelocity.y < -20f)GetComponent<PlayerAudio>()?.PlayLand();
             else if(airTimer > 0.35f)GetComponent<PlayerAudio>()?.PlayLand(Mathf.Min(0.7f,Mathf.Max(0.1f,Mathf.Abs(rb.linearVelocity.y)/10f)));
             airTimer = 0f;
@@ -156,6 +152,7 @@ public class PlayerMovement : MonoBehaviour
     public bool IsGrounded => isGrounded;
     private bool CheckGrounded()
     {
+        // Use a circle to check if we're on the ground
         var filter = new ContactFilter2D
         {
             useLayerMask = true,
@@ -163,8 +160,10 @@ public class PlayerMovement : MonoBehaviour
             useTriggers = false
         };
 
+        // Check for hits
         int count = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, filter, groundHits);
 
+        // If any of the hits are not our own collider or null, we're grounded
         for (int i = 0; i < count; i++)
         {
             var hit = groundHits[i];

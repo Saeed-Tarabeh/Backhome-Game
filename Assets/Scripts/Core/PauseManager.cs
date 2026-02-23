@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class PauseManager : MonoBehaviour
@@ -7,6 +8,11 @@ public class PauseManager : MonoBehaviour
     public bool IsPaused { get; private set; }
 
     private float timeScaleBeforePause = 1f;
+
+    // Prevents input leak on resume
+    private bool resumeInputBlock;
+
+    public bool InputBlocked => IsPaused || resumeInputBlock;
 
     private void Awake()
     {
@@ -19,17 +25,33 @@ public class PauseManager : MonoBehaviour
         if (IsPaused) return;
 
         IsPaused = true;
-        timeScaleBeforePause = Time.timeScale;   // could be 1 or 0.6 etc.
+        timeScaleBeforePause = Time.timeScale;
         Time.timeScale = 0f;
-        AudioListener.pause = true;              // optional: pauses AudioSources (not Mixer effects)
+        AudioListener.pause = true;
     }
 
     public void Resume()
     {
         if (!IsPaused) return;
+        StartCoroutine(ResumeSafe());
+    }
 
+    private IEnumerator ResumeSafe()
+    {
+        resumeInputBlock = true;
+
+        // Unpause time
         IsPaused = false;
-        Time.timeScale = timeScaleBeforePause;  // restores slow-mo if it was active
+        Time.timeScale = timeScaleBeforePause;
         AudioListener.pause = false;
+
+        // Wait until mouse buttons are released
+        while (Input.GetMouseButton(0) || Input.GetMouseButton(1))
+            yield return null;
+
+        // Extra frame safety
+        yield return null;
+
+        resumeInputBlock = false;
     }
 }

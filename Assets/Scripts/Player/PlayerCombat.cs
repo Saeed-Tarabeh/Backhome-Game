@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class PlayerCombat : MonoBehaviour
 {
@@ -27,6 +28,13 @@ public class PlayerCombat : MonoBehaviour
 
     private void Update()
     {
+        if (PauseManager.Instance != null && PauseManager.Instance.IsPaused)
+            return;
+
+      
+        if (EventSystem.current != null && EventSystem.current.IsPointerOverGameObject())
+            return;
+
         if (Input.GetMouseButtonDown(0) && Time.time >= lastAttackTime + attackCooldown)
         {
             playerAnim?.TriggerAttack1();
