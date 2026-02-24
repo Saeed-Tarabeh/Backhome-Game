@@ -152,14 +152,6 @@ public class EnemyPatrol : MonoBehaviour
         }
     }
 
-    // private void OnCollisionEnter2D(Collision2D collision)
-    // {
-    //     if (!collision.collider.CompareTag("Player")) return;
-
-    //     if (health != null && PlayerHealth.Instance != null)
-    //         PlayerHealth.Instance.TakeDamage(1);
-    // }
-
     private void OnDrawGizmosSelected()
     {
         if (groundCheck != null)

@@ -43,7 +43,7 @@ public class PauseMenuUI : MonoBehaviour
         // Pause forces 0. Resume restores whatever it was before pause.
         Time.timeScale = isPaused ? 0f : timeScaleBeforePause;
 
-        // Optional: pause AudioSources globally (UI audio can ignore this)
+        // pause AudioSources globally (UI audio can ignore this)
         AudioListener.pause = isPaused;
 
         if (isPaused)

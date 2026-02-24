@@ -17,7 +17,7 @@ public class EnemyDamageZone : MonoBehaviour
     {
         if (Time.time < nextHitTime) return;
 
-        // Optional: layer filter (if you set playerLayer in inspector)
+        // layer filter
         if (playerLayer.value != 0)
         {
             int otherLayerBit = 1 << other.gameObject.layer;

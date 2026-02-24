@@ -7,7 +7,7 @@ using UnityEngine;
 /// - Slow time + play whisper + fade UI in
 /// - Player holds E to confirm
 /// - On success: consumes 1 photo checkpoint, fades UI out, restores time
-/// - IMPORTANT: waits for E to be RELEASED before re-enabling PhotoCheckpoint input
+/// - waits for E to be RELEASED before re-enabling PhotoCheckpoint input
 ///   (prevents "holding E" from immediately consuming another photo after tutorial)
 /// </summary>
 [RequireComponent(typeof(Collider2D))]
@@ -39,14 +39,12 @@ public class CheckpointTutorialTrigger : MonoBehaviour
 
     private void Reset()
     {
-        // Make sure the collider is a trigger when you add the script.
         var col = GetComponent<Collider2D>();
         if (col != null) col.isTrigger = true;
     }
 
     private void Awake()
     {
-        // Ensure this is a trigger.
         var col = GetComponent<Collider2D>();
         if (col != null) col.isTrigger = true;
 
@@ -58,8 +56,6 @@ public class CheckpointTutorialTrigger : MonoBehaviour
     {
         if (completed) return;
 
-        // If your player collider is on a child, tag might not be on that child.
-        // You can swap this to: if (other.GetComponentInParent<PlayerHealth>() == null) return;
         if (!other.CompareTag("Player")) return;
 
         // Find PhotoCheckpoint (root or parent).
@@ -106,9 +102,9 @@ public class CheckpointTutorialTrigger : MonoBehaviour
         prevTimeScale = Time.timeScale;
         Time.timeScale = slowedTimeScale;
 
-        // Play whisper (optional).
-        if (SFXManager.Instance != null)
-            SFXManager.Instance.Play(whisperClip, whisperVolume, 0.95f, 1.05f);
+        // Play whisper.
+        // if (SFXManager.Instance != null)
+        //     SFXManager.Instance.Play(whisperClip, whisperVolume, 0.95f, 1.05f);
 
         // Fade UI in.
         FadeUI(1f);
@@ -144,7 +140,6 @@ public class CheckpointTutorialTrigger : MonoBehaviour
         // Let the fade complete.
         yield return new WaitForSecondsRealtime(fadeDuration);
 
-        // CRITICAL FIX:
         // If the player keeps holding E, re-enabling PhotoCheckpoint input can cause
         // an immediate second photo consumption. So we wait for E to be released once.
         while (Input.GetKey(key))

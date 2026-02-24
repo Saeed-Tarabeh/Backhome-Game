@@ -32,7 +32,6 @@ public class AudioTimeReset : MonoBehaviour
         if (normalSnapshot != null)
             normalSnapshot.TransitionTo(transitionTime);
 
-        // Optional: if you ever change pitch on AudioSources, reset it here too.
         AudioListener.pause = false;
     }
 }

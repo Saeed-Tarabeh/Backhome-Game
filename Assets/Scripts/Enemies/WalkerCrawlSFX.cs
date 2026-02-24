@@ -4,18 +4,18 @@ using UnityEngine;
 public class WalkerCrawlSFX : MonoBehaviour
 {
     [Header("Refs")]
-    [SerializeField] private Transform player;                 // drag Player here (or auto-find by tag)
-    [SerializeField] private Rigidbody2D rb;                   // optional: if you want velocity-based check
+    [SerializeField] private Transform player;            
+    [SerializeField] private Rigidbody2D rb;                   
 
     [Header("When to play")]
-    [SerializeField] private float minMoveSpeed = 0.05f;       // how fast counts as "moving"
-    [SerializeField] private bool useVelocityCheck = true;     // true = rb velocity; false = animator param / custom
+    [SerializeField] private float minMoveSpeed = 0.05f;      
+    [SerializeField] private bool useVelocityCheck = true;     
 
     [Header("Distance volume")]
-    [SerializeField] private float maxHearingDistance = 12f;   // at this distance -> volume 0
-    [SerializeField] private float minHearingDistance = 2f;    // inside this -> full volume
-    [SerializeField] private float maxVolume = 0.9f;           // volume when close
-    [SerializeField] private float volumeSmooth = 10f;         // smoothing speed
+    [SerializeField] private float maxHearingDistance = 12f;   
+    [SerializeField] private float minHearingDistance = 2f;    
+    [SerializeField] private float maxVolume = 0.9f;           
+    [SerializeField] private float volumeSmooth = 10f;         
 
     private AudioSource src;
     private float targetVolume;
@@ -26,7 +26,6 @@ public class WalkerCrawlSFX : MonoBehaviour
 
         if (rb == null) rb = GetComponent<Rigidbody2D>();
 
-        // Auto-find player if not assigned
         if (player == null)
         {
             GameObject p = GameObject.FindGameObjectWithTag("Player");
@@ -54,7 +53,7 @@ public class WalkerCrawlSFX : MonoBehaviour
                 src.Stop();
         }
 
-        // Distance-based volume (even while playing)
+        // Distance-based volume
         targetVolume = ComputeDistanceVolume();
         src.volume = Mathf.MoveTowards(src.volume, targetVolume, volumeSmooth * Time.deltaTime);
     }
@@ -67,7 +66,6 @@ public class WalkerCrawlSFX : MonoBehaviour
             return Mathf.Abs(rb.linearVelocity.x) > minMoveSpeed;
         }
 
-        // If you prefer: return your own “isWalking” boolean from EnemyPatrol, Animator param, etc.
         return false;
     }
 

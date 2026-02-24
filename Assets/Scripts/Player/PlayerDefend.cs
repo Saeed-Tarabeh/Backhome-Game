@@ -20,7 +20,7 @@ public class PlayerDefend : MonoBehaviour
     private int defendingLayer;
 
     private bool isDefending;
-    private bool defendHeld; // <-- NEW: what the player is currently doing (RMB held)
+    private bool defendHeld; 
 
     private Rigidbody2D rb;
     private PlayerMovement movement;
@@ -69,7 +69,7 @@ public class PlayerDefend : MonoBehaviour
     // Called by animation event on frame 3
     public void Anim_DefendActivate()
     {
-        // IMPORTANT: ignore the event if the player already released RMB
+        // ignore the event if the player already released RMB
         if (!defendHeld) return;
         // cancel if not grounded
         if (movement != null && !movement.IsGrounded)
@@ -93,7 +93,7 @@ public class PlayerDefend : MonoBehaviour
         if (freezeMovement)
         {
             if (movement != null) movement.enabled = false;
-            rb.linearVelocity = Vector2.zero; // (safer than linearVelocity for Rigidbody2D)
+            rb.linearVelocity = Vector2.zero; 
         }
 
         if (makeInvulnerable && playerHealth != null)

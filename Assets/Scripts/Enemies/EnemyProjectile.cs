@@ -133,7 +133,7 @@ public class EnemyProjectile : MonoBehaviour
             if (combat != null && combat.CanReflect)
             {
                 ReflectFrom(other.bounds.center);
-                return; // IMPORTANT: no impact anim on reflection
+                return;
             }
         }
 

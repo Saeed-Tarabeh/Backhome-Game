@@ -73,6 +73,7 @@ public class PhotoCheckpoint : MonoBehaviour
             StopSlowTimeIfNeeded();
             return;
         }
+        
         if (Input.GetKey(KeyCode.E))
         {
             holdCounter += Time.unscaledDeltaTime;

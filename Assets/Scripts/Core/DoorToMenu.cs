@@ -17,7 +17,6 @@ public class DoorToMenu : MonoBehaviour
 
     private void Reset()
     {
-        // Helpful default: make collider a trigger
         var col = GetComponent<Collider2D>();
         col.isTrigger = true;
     }
