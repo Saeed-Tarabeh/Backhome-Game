@@ -25,3 +25,6 @@ Backhome-Game/
 ├── Back Home – Game Rules&Mechanics.pdf
 ├── Final Project.sln
 └── README.md
+```
+## Tutorial Full Walkthrough Video
+https://youtu.be/hJ7kJA4cm1M
